@@ -51,9 +51,10 @@ Manual inspection of misclassifications from the best-performing models helped i
 ## Deployment 
 
 - Web deployment done using [`Streamlit`](https://tokenclassification.streamlit.app/) 
+- Logging user inputs and predictions
+
 
 You may extend this work with:
-- Logging user inputs and predictions
 - Performance testing for scalability and latency
 
 ## Dependencies
